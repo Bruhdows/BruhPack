@@ -295,12 +295,12 @@ hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
 
 [[files]]
-file = "mods/easyauth-neoforge-mc1.21.1-3.4.3-all.jar"
-hash = "fed64d8b399c556ffe90c4fae0464af839ca4864d69ee126ea91d733802460b2"
+file = "mods/easyauth-neoforge-mc1.21.1-3.4.3.jar"
+hash = "6a50ac4db7fe5b5a6a500671f2eb4250b44c1db62077a6ddf1b90e0948860d70"
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "618172affc2899e451447d01c75a3ba2aabf04de46083d02708f81fbc81eed62"
+hash = "a9522c6542197f422dd369588f9f265e24645a770761e684b472cd54226337ef"
 metafile = true
 
 [[files]]
