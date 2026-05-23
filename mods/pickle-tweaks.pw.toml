@@ -1,0 +1,13 @@
+name = "Pickle Tweaks"
+filename = "PickleTweaks-1.21.1-9.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J868sgbE/versions/pFjsKGQZ/PickleTweaks-1.21.1-9.0.7.jar"
+hash-format = "sha512"
+hash = "92eac358f8b6554cbf3e2939e09683feaf1010a1d03a34f44a50f6dcc7f8ba345b04614ef4de118bd85fa5c672e249edcc3cf5c237a53f8745622de500625d9f"
+
+[update]
+[update.modrinth]
+mod-id = "J868sgbE"
+version = "pFjsKGQZ"

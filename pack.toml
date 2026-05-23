@@ -1,0 +1,13 @@
+name = "BruhPack"
+author = "Bruhdows"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b32c913777c4b8d5429db73596dacb16a75210c68b79f21880c1c8b2488ff65b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
