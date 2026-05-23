@@ -1,6 +1,6 @@
 name = "Jade Addons (Neo/Forge)"
 filename = "JadeAddons-1.21.1-NeoForge-6.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
