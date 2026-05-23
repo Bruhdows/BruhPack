@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "custom-mods/easyauth-neoforge-mc1.21.1-3.4.3.jar"
+hash = "98ff33ba3be5e4c5e110a9d2bba1de20414be08f12f0c36669d46d38469c7ced"
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
 metafile = true
@@ -295,12 +299,8 @@ hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
 
 [[files]]
-file = "mods/easyauth-neoforge-mc1.21.1-3.4.3.jar"
-hash = "98ff33ba3be5e4c5e110a9d2bba1de20414be08f12f0c36669d46d38469c7ced"
-
-[[files]]
 file = "mods/easyauth.pw.toml"
-hash = "9eda92d55f2646ba27cde6af00b75409e5cae49165bd7b059f18243f71a17434"
+hash = "5d3d49a66b70bc0955d23230fce24820e5908cc12fa17bdb5f3fef20363bfb6e"
 metafile = true
 
 [[files]]
