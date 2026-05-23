@@ -1,0 +1,8 @@
+name = "Bomboclat"
+filename = "bomboclat-1.0"
+side = "server"
+
+[download]
+url = "https://bruhdows.github.io/BruhPack/custom-mods/bomboclat-1.0.jar"
+hash-format = "sha256"
+hash = "9f3eb565fc5b25adece4fc337633132271c00ebe9501179d72f5521bbaf09658"

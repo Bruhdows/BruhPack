@@ -115,6 +115,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/bomboclat.pw.toml"
+hash = "ed93487c12eda4ba8e0ae0247c6922bb25fc725d0b0a7958b7bfcabc14a3e1a7"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
