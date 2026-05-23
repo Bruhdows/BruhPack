@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://bruhdows.github.io/BruhPack/mods/easyauth-neoforge-mc1.21.1-3.4.3-all.jar"
 hash-format = "sha256"
-hash = "6732718f6aad97397a2d11cc2794597bb8ac5bb73baeb64425e86e7a8585b891"
+hash = "fed64d8b399c556ffe90c4fae0464af839ca4864d69ee126ea91d733802460b2"
