@@ -545,6 +545,11 @@ hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
 
 [[files]]
+file = "mods/leashedplayer.pw.toml"
+hash = "5a06073a04e7e009a9ac01ae1bf1033972d2672bb6b7c933fc16af9a6aff9b5f"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
 metafile = true
@@ -790,6 +795,11 @@ hash = "e3308855a5ecd5fbb8e39a2790f61aaa1755111618bd2a672a91470e62a9520b"
 metafile = true
 
 [[files]]
+file = "mods/room-for-two.pw.toml"
+hash = "29a774eb6c532c065364460c0a4fdfc1ae88781d78bc17d782ac5a5450b5a57e"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
@@ -887,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "0f67fdb37d6ef354f36a1da5805b5c083be21e7367868ec81d29426d94749609"
+metafile = true
+
+[[files]]
+file = "mods/twemojichat.pw.toml"
+hash = "b4a0b4340fa35f0de9a3a093cbfe65dd5ee1c6cd9b86f9ef2021f2a96503e20a"
 metafile = true
 
 [[files]]
