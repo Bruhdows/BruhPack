@@ -1,0 +1,10 @@
+*.mrpack
+*.zip
+.serena/cache/
+.serena/memories/
+.serena/project.local.yml
+.idea/
+.vscode/
+.direnv/
+.envrc
+.DS_Store
