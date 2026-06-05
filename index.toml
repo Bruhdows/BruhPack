@@ -5,6 +5,14 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = ".serena/project.local.yml"
+hash = "7b5753e9fcf8348db026f8d23ff601b1cf90d9543532fe979f31650e27b15d2b"
+
+[[files]]
+file = ".serena/project.yml"
+hash = "087c40f90c894536c9289a96da4bf6c41ad4362867a84f6624b8406a1b29fb1b"
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
 metafile = true
@@ -286,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+hash = "38cdcfcd897e2ac53bd0e0ca80b94309d9ae76a1dda4a5686cdf810bc014e701"
 metafile = true
 
 [[files]]
