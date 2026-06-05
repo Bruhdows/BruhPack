@@ -1,7 +1,7 @@
-/.git/
-/.gitignore
-/.serena/
-/AGENTS.md
-/*.mrpack
-/*.zip
-/.nojekyll
+.git/
+.gitignore
+.serena/
+AGENTS.md
+*.mrpack
+*.zip
+.nojekyll
