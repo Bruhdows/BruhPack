@@ -1,1 +1,4 @@
 custom-mods/**
+.serena/
+.git/
+.nojekyll
