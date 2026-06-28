@@ -363,11 +363,6 @@ hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
 
 [[files]]
-file = "mods/diet-appleseed-edition.pw.toml"
-hash = "0175fd53deda2d160a2c6b7bddb14e08f63306931f1b85f40c03ab4559f4afb9"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "38cdcfcd897e2ac53bd0e0ca80b94309d9ae76a1dda4a5686cdf810bc014e701"
 metafile = true
@@ -480,11 +475,6 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
-metafile = true
-
-[[files]]
-file = "mods/foodvariations.pw.toml"
-hash = "4c43993c059bc66e51cefc4b499ea44d34fcb30d2e1721fe6f595511c77f9146"
 metafile = true
 
 [[files]]
