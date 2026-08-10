@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "custom-mods/bomboclat-1.0.0.jar"
-hash = "4238d7be248baa703c0b0fffb1c26de3bcc6d8807e39a2c9f81953dd8a95a807"
+hash = "e42770c285da2434e7b12d422ebceeceaf98100124e8bf4ff1dc9bed33d77174"
 
 [[files]]
 file = "custom-mods/easyauth-neoforge-mc1.21.1-3.4.3.jar"
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/bomboclat.pw.toml"
-hash = "ba15ef7248f60e5c4224ac3d663503b9b6bdcbb525c309cf794982b01f7ab882"
+hash = "2d61c624d79048d2c5a6e40896ea847a99541eb340c56070a8b8f68a44dfd30b"
 metafile = true
 
 [[files]]
